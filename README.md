@@ -23,6 +23,3 @@ Our project dances to the rhythm of Test-Driven Development (TDD), meaning bulle
 Fellow adventurers, if you're ready to unlock the gates to automated testing excellence, come join us in this repository. Here, we learn, we contribute, and we automate with flair. Your journey to becoming an automation virtuoso starts now! 🎩🔮
 
 Dive into our codebase, share your brilliance, and soak up the collective wisdom of this vibrant community. May your testing be efficient, your code elegant, and your automation journeys full of delight. 🌈🌐🧪
-
-With excitement and pixels,
-[Your Name]
